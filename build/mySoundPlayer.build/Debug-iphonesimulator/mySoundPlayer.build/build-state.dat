@@ -1,0 +1,542 @@
+TmySoundPlayer
+v7
+r0
+t519942939.173660
+cCheck dependencies
+cProcessInfoPlistFile /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/Info.plist mySoundPlayer-Info.plist
+cCompileXIB /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/MainWindow.xib
+cCompileXIB /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayerViewController.xib
+cCpResource build/Debug-iphonesimulator/mySoundPlayer.app/sound1.wav ../sounds/sound1.wav
+cCpResource build/Debug-iphonesimulator/mySoundPlayer.app/sound2.wav ../sounds/sound2.wav
+cCpResource build/Debug-iphonesimulator/mySoundPlayer.app/sound3.wav ../sounds/sound3.wav
+cProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-cfigebiqvaifpvcnefgaduadcbbi/mySoundPlayer_Prefix.pch.gch mySoundPlayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer normal i386
+cGenerateDSYMFile /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+cTouch /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D5EBEC300000000001340C0
+t1298054851
+s1261760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004D5EBEBB00000000000007D0
+t1298054843
+s2000
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/../sounds/sound1.wav
+c00000000503D11CE0000000002C85E58
+t1346179534
+s46685784
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/../sounds/sound2.wav
+c00000000503D11DA0000000002B4CCA0
+t1346179546
+s45403296
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/../sounds/sound3.wav
+c00000000503D11A600000000033E6FC8
+t1346179494
+s54423496
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerAppDelegate.h
+c00000000594D72F70000000000000206
+t1498247927
+s518
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m
+c00000000594D72F70000000000000ACB
+t1498247927
+s2763
+i"mySoundPlayerAppDelegate.h"
+i"mySoundPlayerViewController.h"
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerViewController.h
+c00000000594D73DC00000000000001EE
+t1498248156
+s494
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerViewController.m
+c00000000594D7518000000000000096E
+t1498248472
+s2414
+i"mySoundPlayerViewController.h"
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/MainWindow.xib
+c00000000594D72F70000000000004E71
+t1498247927
+s20081
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app
+t1498249014
+s340
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM
+t1498249014
+s102
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/Info.plist
+t1498248476
+s615
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/MainWindow.nib
+t1498248477
+s1693
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/PkgInfo
+t1498248476
+s8
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+t1498249014
+s19032
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayerViewController.nib
+t1498249013
+s4455
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/sound1.wav
+t1498248480
+s46685784
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/sound2.wav
+t1498248481
+s45403296
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/sound3.wav
+t1498248481
+s54423496
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o
+t1498249014
+s6364
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayer.LinkFileList
+c00000000594D7735000000000000020B
+t1498249013
+s523
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o
+t1498249014
+s52596
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o
+t1498249014
+s46604
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/main.m
+c00000000594D72F70000000000000172
+t1498247927
+s370
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayerViewController.xib
+c00000000594D772D00000000000079D7
+t1498249005
+s31191
+
+N/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayer_Prefix.pch
+c00000000594D72F700000000000000C3
+t1498247927
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound1.wav
+c00000000503D11CE0000000002C85E58
+t1346179534
+s46685784
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound2.wav
+c00000000503D11DA0000000002B4CCA0
+t1346179546
+s45403296
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound3.wav
+c00000000503D11A600000000033E6FC8
+t1346179494
+s54423496
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerAppDelegate.h
+c00000000594D72F70000000000000206
+t1498247927
+s518
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m
+c00000000594D72F70000000000000ACB
+t1498247927
+s2763
+i"mySoundPlayerAppDelegate.h"
+i"mySoundPlayerViewController.h"
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerViewController.h
+c00000000594D73DC00000000000001EE
+t1498248156
+s494
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerViewController.m
+c00000000594D7518000000000000096E
+t1498248472
+s2414
+i"mySoundPlayerViewController.h"
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/MainWindow.xib
+c00000000594D72F70000000000004E71
+t1498247927
+s20081
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app
+t1498248702
+s340
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM
+t1498248482
+s102
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/Info.plist
+t1498248476
+s615
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/MainWindow.nib
+t1498248477
+s1693
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/PkgInfo
+t1498248476
+s8
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+t1498248482
+s18888
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayerViewController.nib
+t1498248702
+s4455
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/sound1.wav
+t1498248480
+s46685784
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/sound2.wav
+t1498248481
+s45403296
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/sound3.wav
+t1498248481
+s54423496
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o
+t1498248482
+s6316
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayer.LinkFileList
+c00000000594D751C00000000000001C3
+t1498248476
+s451
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o
+t1498248482
+s52548
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o
+t1498248482
+s46556
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/main.m
+c00000000594D72F70000000000000172
+t1498247927
+s370
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayerViewController.xib
+c00000000594D75FA00000000000079D7
+t1498248698
+s31191
+
+N/Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayer_Prefix.pch
+c00000000594D72F700000000000000C3
+t1498247927
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-bgwxyiqwvoveafawgugmrnwysegj/mySoundPlayer_Prefix.pch.gch
+t1498248482
+s15814064
+
+N/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-cfigebiqvaifpvcnefgaduadcbbi/mySoundPlayer_Prefix.pch.gch
+t1498249014
+s15814064
+
+NmySoundPlayer-Info.plist
+c00000000594D72F7000000000000038D
+t1498247927
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies519942939#519942939#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519941814.335127
+e519941814.371663
+r1
+xCompileC
+xbuild/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o
+x/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/main.m519941814#519941814#0(0"0(0#0#71"/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/main.m8602480960#2320"    cd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-generated-files.hmap -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-project-headers.hmap -F/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-cfigebiqvaifpvcnefgaduadcbbi/mySoundPlayer_Prefix.pch -c /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/main.m -o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o0#
+
+CCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/mySoundPlayer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519941282.296996
+e519941282.418285
+r1
+xCompileC
+xbuild/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o
+x/Users/sbarghshoon/Desktop/mySoundPlayer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/sbarghshoon/Desktop/mySoundPlayer/main.m519941282#519941282#0(0"0(0#0#47"/Users/sbarghshoon/Desktop/mySoundPlayer/main.m8615586976#2056"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-generated-files.hmap -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-project-headers.hmap -F/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-bgwxyiqwvoveafawgugmrnwysegj/mySoundPlayer_Prefix.pch -c /Users/sbarghshoon/Desktop/mySoundPlayer/main.m -o /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/main.o0#
+
+CCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519941814.336670
+e519941814.408717
+r1
+xCompileC
+xbuild/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o
+x/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m519941814#519941814#0(0"0(0#0#99"/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m8602228384#2368"    cd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-generated-files.hmap -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-project-headers.hmap -F/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-cfigebiqvaifpvcnefgaduadcbbi/mySoundPlayer_Prefix.pch -c /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m -o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o0#
+
+CCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o /Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519941282.297638
+e519941282.436113
+r1
+xCompileC
+xbuild/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o
+x/Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m519941282#519941282#0(0"0(0#0#75"/Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m8613942784#2104"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-generated-files.hmap -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-project-headers.hmap -F/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-bgwxyiqwvoveafawgugmrnwysegj/mySoundPlayer_Prefix.pch -c /Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerAppDelegate.m -o /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerAppDelegate.o0#
+
+CCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519941814.337716
+e519941814.413417
+r1
+xCompileC
+xbuild/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o
+x/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerViewController.m519941814#519941814#0(0"0(0#0#102"/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerViewController.m8601929280#2374"    cd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-generated-files.hmap -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-project-headers.hmap -F/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-cfigebiqvaifpvcnefgaduadcbbi/mySoundPlayer_Prefix.pch -c /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/Classes/mySoundPlayerViewController.m -o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o0#
+
+CCompileC build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o /Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519941282.298152
+e519941282.436784
+r1
+xCompileC
+xbuild/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o
+x/Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerViewController.m519941282#519941282#0(0"0(0#0#78"/Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerViewController.m8613825280#2110"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-generated-files.hmap -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-project-headers.hmap -F/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-bgwxyiqwvoveafawgugmrnwysegj/mySoundPlayer_Prefix.pch -c /Users/sbarghshoon/Desktop/mySoundPlayer/Classes/mySoundPlayerViewController.m -o /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayerViewController.o0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/MainWindow.xib
+r0
+
+CCompileXIB /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayerViewController.xib
+s519941813.571437
+e519941813.874109
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayerViewController.xib
+lSLF07#2@42"CompileXIB mySoundPlayerViewController.xib519941813#519941813#0(0"0(0#0#96"/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayerViewController.xib7804848579812480000#688"    cd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayerViewController.nib /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/mySoundPlayer/MainWindow.xib
+s519941276.500397
+e519941277.154288
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/mySoundPlayer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib519941276#519941277#0(0"0(0#0#55"/Users/sbarghshoon/Desktop/mySoundPlayer/MainWindow.xib8613684608#582"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/MainWindow.nib /Users/sbarghshoon/Desktop/mySoundPlayer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayerViewController.xib
+s519941502.343899
+e519941502.748507
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayerViewController.xib
+lSLF07#2@42"CompileXIB mySoundPlayerViewController.xib519941502#519941502#0(0"0(0#0#72"/Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayerViewController.xib8612745376#616"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayerViewController.nib /Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/mySoundPlayer.app/sound1.wav ../sounds/sound1.wav
+s519941276.501978
+e519941280.888705
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mySoundPlayer.app/sound1.wav
+x../sounds/sound1.wav
+lSLF07#2@25"Copy ../sounds/sound1.wav519941276#519941280#0(0"0(0#0#61"/Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound1.wav8615835904#490"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound1.wav /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app0#
+
+CCpResource build/Debug-iphonesimulator/mySoundPlayer.app/sound2.wav ../sounds/sound2.wav
+s519941276.502350
+e519941281.194687
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mySoundPlayer.app/sound2.wav
+x../sounds/sound2.wav
+lSLF07#2@25"Copy ../sounds/sound2.wav519941276#519941281#0(0"0(0#0#61"/Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound2.wav8610715040#490"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound2.wav /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app0#
+
+CCpResource build/Debug-iphonesimulator/mySoundPlayer.app/sound3.wav ../sounds/sound3.wav
+s519941276.502709
+e519941281.551514
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/mySoundPlayer.app/sound3.wav
+x../sounds/sound3.wav
+lSLF07#2@25"Copy ../sounds/sound3.wav519941276#519941281#0(0"0(0#0#61"/Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound3.wav8613849760#490"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/sbarghshoon/Desktop/mySoundPlayer/../sounds/sound3.wav /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app0#
+
+CGenerateDSYMFile /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+s519941814.430111
+e519941814.441559
+r1
+xGenerateDSYMFile
+x/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM
+x/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/mySoundPlayer.app.dSYM build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer519941814#519941814#0(0"0(0#0#124"/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer8601373568#479"    cd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer -o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM0#
+
+CGenerateDSYMFile /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+s519941282.685332
+e519941282.736790
+r1
+xGenerateDSYMFile
+x/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM
+x/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/mySoundPlayer.app.dSYM build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer519941282#519941282#0(0"0(0#0#100"/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer8615585760#407"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer -o /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app.dSYM0#
+
+CLd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer normal i386
+s519941814.413471
+e519941814.430042
+r1
+xLd
+x/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+xnormal
+xi386
+lSLF07#2@129"Link /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer519941814#519941814#0(0"0(0#0#0"8601576864#1084"    cd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator -F/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator -filelist /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer0#
+
+CLd /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer normal i386
+s519941282.436829
+e519941282.685266
+r1
+xLd
+x/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer
+xnormal
+xi386
+lSLF07#2@105"Link /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer519941282#519941282#0(0"0(0#0#0"8604376224#964"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator -F/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator -filelist /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/Objects-normal/i386/mySoundPlayer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/mySoundPlayer0#
+
+CProcessInfoPlistFile /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/Info.plist mySoundPlayer-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/Info.plist mySoundPlayer-Info.plist
+s519941276.463176
+e519941276.500319
+r1
+xProcessInfoPlistFile
+x/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/Info.plist
+xmySoundPlayer-Info.plist
+lSLF07#2@32"Process mySoundPlayer-Info.plist519941276#519941276#0(0"0(0#0#65"/Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayer-Info.plist32933040433463412#503"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility mySoundPlayer-Info.plist -genpkginfo /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app/Info.plist0#
+
+CProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-bgwxyiqwvoveafawgugmrnwysegj/mySoundPlayer_Prefix.pch.gch mySoundPlayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s519941281.551856
+e519941282.296930
+r1
+xProcessPCH
+x/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-bgwxyiqwvoveafawgugmrnwysegj/mySoundPlayer_Prefix.pch.gch
+xmySoundPlayer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile mySoundPlayer_Prefix.pch519941281#519941282#0(0"0(0#0#65"/Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayer_Prefix.pch8613591072#1940"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-generated-files.hmap -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-project-headers.hmap -F/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources -c /Users/sbarghshoon/Desktop/mySoundPlayer/mySoundPlayer_Prefix.pch -o /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-bgwxyiqwvoveafawgugmrnwysegj/mySoundPlayer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-cfigebiqvaifpvcnefgaduadcbbi/mySoundPlayer_Prefix.pch.gch mySoundPlayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s519941813.874214
+e519941814.334955
+r1
+xProcessPCH
+x/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-cfigebiqvaifpvcnefgaduadcbbi/mySoundPlayer_Prefix.pch.gch
+xmySoundPlayer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile mySoundPlayer_Prefix.pch519941813#519941814#0(0"0(0#0#89"/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayer_Prefix.pch8604032608#2180"    cd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-generated-files.hmap -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/mySoundPlayer-project-headers.hmap -F/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/mySoundPlayer.build/Debug-iphonesimulator/mySoundPlayer.build/DerivedSources -c /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/mySoundPlayer_Prefix.pch -o /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/mySoundPlayer_Prefix-cfigebiqvaifpvcnefgaduadcbbi/mySoundPlayer_Prefix.pch.gch0#
+
+CTouch /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app
+s519941814.441617
+e519941814.443616
+r1
+xTouch
+x/Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app
+lSLF07#2@116"Touch /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app519941814#519941814#0(0"0(0#0#0"8601197056#336"    cd /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sbarghshoon/Desktop/Programming/Udemy/Price/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app0#
+
+CTouch /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app
+s519941502.748890
+e519941502.750989
+r1
+xTouch
+x/Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app
+lSLF07#2@92"Touch /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app519941502#519941502#0(0"0(0#0#0"8613627872#288"    cd /Users/sbarghshoon/Desktop/mySoundPlayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sbarghshoon/Desktop/mySoundPlayer/build/Debug-iphonesimulator/mySoundPlayer.app0#
+
